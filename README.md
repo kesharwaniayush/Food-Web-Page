@@ -41,15 +41,8 @@ Steps:
 Clone the repository or download the files
 Open index.html in your browser
 Navigate the website via the menu bar
-Sample Commands:
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/burgerbuzz.git
-cd burgerbuzz
-open index.html
 
-8. Folder Structure
+6. Folder Structure
 css
 Copy
 Edit
@@ -69,6 +62,6 @@ burgerbuzz/
 ├── images/
 ├── js/
 
-9. License
+7. License
 This project is free to use for educational and personal purposes.
 
