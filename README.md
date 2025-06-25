@@ -43,9 +43,7 @@ Open index.html in your browser
 Navigate the website via the menu bar
 
 6. Folder Structure
-css
-Copy
-Edit
+```
 burgerbuzz/
 │
 ├── index.html
@@ -61,6 +59,7 @@ burgerbuzz/
 │
 ├── images/
 ├── js/
+```
 
 7. License
 This project is free to use for educational and personal purposes.
